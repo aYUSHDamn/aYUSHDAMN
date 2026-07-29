@@ -23,18 +23,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,git,linux,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aYUSHDamn&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aYUSHDamn&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aYUSHDamn&theme=tokyonight&hide_border=true"/>
-</p>
 
 ## 🎯 2026 Goals
 
@@ -47,5 +35,18 @@
 
 ## 📫 Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/ayush-konar-23137732a/
-- Email: ayushkonar18@gmail.com
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayush-konar-23137732a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:ayushkonar18@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/aYUSHDamn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
