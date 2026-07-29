@@ -15,19 +15,9 @@
 
 ## 🛠 Tech Stack
 
-- C
-- C++
-- Java
-- Python
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Git
-
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,git,linux,vscode" />
+</p>
 
 ## 🎯 2026 Goals
 
