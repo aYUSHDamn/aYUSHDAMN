@@ -17,12 +17,18 @@
 - 🚀 Always building and learning something new
 
 ---
-
-## 🛠 Tech Stack
+## 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,git,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,mongodb,git,github,linux,vscode" />
 </p>
+
+## 🚀 Currently Working On
+
+- 🤖 AI & Machine Learning Projects
+- 🌐 Full Stack Development
+- 💻 Data Structures & Algorithms
+- 📚 Computer Networks & Operating Systems
 
 
 ## 🎯 2026 Goals
@@ -51,8 +57,6 @@
   </a>
 </p>
 
-## 🏆 GitHub Trophies
+## 💡 Quote
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aYUSHDamn&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+> "Code. Learn. Build. Repeat."
