@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Konar;B.Tech+CSE+(Data+Science)+@+VIT+Vellore;AI+%7C+Full+Stack+Developer;Always+Learning+New+Things" />
+</p>
+
 # Hi 👋, I'm Ayush Konar
 
 🎓 B.Tech CSE (Data Science) @ VIT Vellore
